@@ -1,3 +1,3 @@
 # FINAL PROJECT 
-# Name: The Shopping List App
-# Author: Sofiya Kolomiyets
+## Name: The Shopping List App
+## Author: Sofiya Kolomiyets
